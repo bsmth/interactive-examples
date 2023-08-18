@@ -1,10 +1,7 @@
 @counter-style missing-shapes {
     system: cyclic;
     symbols: '♥︎' '♤';
-    range:
-        1 2,
-        5 6,
-        9 10;
+    range: 1 2, 5 6, 9 10;
 }
 
 ul {
